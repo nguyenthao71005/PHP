@@ -1,0 +1,36 @@
+{
+    "ma_hoa_don": "HD20260111103825",
+    "ngay_tao": "2026-01-11 10:38:25",
+    "khach_hang": {
+        "ho_ten": "Nguyễn Phương Thảo",
+        "email": "nguyenthao7102005@gmail.com",
+        "so_dien_thoai": "0867303205"
+    },
+    "hang_hoa": [
+        {
+            "ten_hang": "Laptop",
+            "so_luong": 10,
+            "don_gia": 100000000,
+            "thanh_tien": 1000000000
+        },
+        {
+            "ten_hang": "Iphone",
+            "so_luong": 20,
+            "don_gia": 20000000,
+            "thanh_tien": 400000000
+        },
+        {
+            "ten_hang": "Macbook",
+            "so_luong": 30,
+            "don_gia": 30000000,
+            "thanh_tien": 900000000
+        }
+    ],
+    "tam_tinh": 2300000000,
+    "giam_gia_percent": 10,
+    "tien_giam": 230000000,
+    "vat_percent": 5,
+    "tien_vat": 103500000,
+    "tong_thanh_toan": 2173500000,
+    "phuong_thuc_tt": "Tiền mặt"
+}
